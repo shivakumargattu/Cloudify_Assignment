@@ -53,3 +53,13 @@ button {
   cursor: pointer;
   border-radius: 5px;
 }
+
+.multiSelectContainer{
+  width: 100%;
+  padding-top: 10px;
+  
+}
+.itemsInput{
+  height: 25px;
+  width: 80%;
+}
