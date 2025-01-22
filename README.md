@@ -19,3 +19,6 @@ Your task is to create a React application that displays a table based on the fo
 - There should be a component at the bottom of the dropdown which will let user to add a new item in the list for the 2nd dropdown.
     
     Please note that this component should rest at the end of the option’s list and not as a separate component outside the dropdown component.
+
+  ![image](https://github.com/user-attachments/assets/e2a6e10c-2cbe-47ec-b0ac-18ea5e7ce869)
+
