@@ -22,3 +22,7 @@ Your task is to create a React application that displays a table based on the fo
 
   ![image](https://github.com/user-attachments/assets/e2a6e10c-2cbe-47ec-b0ac-18ea5e7ce869)
 
+
+### Tools/Technologies
+React JS, CSS
+
